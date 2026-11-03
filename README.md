@@ -88,11 +88,6 @@ I'm a Software Engineer and Computer Science student passionate about building s
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ekanshk10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ekanshk10&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ekanshk10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 ---
