@@ -109,24 +109,6 @@ I'm a Software Engineer and Computer Science student passionate about building s
 
 ---
 
-### 🚀 Featured Projects
-
-- **Pulse** — A real-time incident and job management platform focused on backend engineering, distributed systems, and reliability.
-- **Viami ERP** — Enterprise resource planning software with CRM, sales, projects, tasks, and business workflows.
-- **CutQ** — A barber shop queue management system with customer tokens, live queue tracking, and waiting-time estimation.
-
----
-
-### 🎯 Current Goals
-
-- Strengthen Data Structures and Algorithms
-- Build production-ready backend systems
-- Learn system design and distributed systems
-- Improve software engineering fundamentals
-- Contribute to meaningful open-source projects
-
----
-
 <p align="center">
   <i>Building, learning, and getting better every day.</i>
 </p>
