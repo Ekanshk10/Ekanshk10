@@ -1,19 +1,132 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ekansh Kanot
-=====================================================================================================================================
 
-Software Enginner
--------------
+# Hi 👋, I'm Ekansh Kanot
 
-* 🌍  I'm based in Pune
-* ✉️  You can contact me at [kanotekansh@gmail.com](mailto:kanotekansh@gmail.com)
-* 🧠  I'm currently learning Backend development and security
+### Software Engineer | Backend Development | Computer Science Student
+
+I'm a Software Engineer and Computer Science student passionate about building scalable, efficient, and reliable software. I enjoy solving problems, exploring backend architecture, and continuously improving my engineering skills.
+
+- 🌍 Based in **Pune, India**
+- 💼 Software Engineer at a startup
+- 🎓 B.Sc. Computer Science — Fergusson College
+- 🧠 Currently learning **Backend Engineering, System Design & Security**
+- 💻 Practicing Data Structures and Algorithms
+- 🚀 Building projects focused on real-world engineering problems
+- ✉️ Reach me at **[kanotekansh@gmail.com](mailto:kanotekansh@gmail.com)**
+
+---
+
+### 🌐 Connect with me
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
+  <a href="https://github.com/Ekanshk10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ekansh-kanot" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Ekansh_1002/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Ekanshk10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ekansh-kanot" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p><a href="https://leetcode.com/u/Ekansh_1002/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="32" height="32" alt="LeetCode" title="LeetCode" />
-</a>
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" width="40" alt="C"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ekanshk10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekanshk10&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ekanshk10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ekansh_1002/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Ekansh_1002?theme=dark&font=Ubuntu&ext=heatmap" alt="Ekansh's LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- **Pulse** — A real-time incident and job management platform focused on backend engineering, distributed systems, and reliability.
+- **Viami ERP** — Enterprise resource planning software with CRM, sales, projects, tasks, and business workflows.
+- **CutQ** — A barber shop queue management system with customer tokens, live queue tracking, and waiting-time estimation.
+
+---
+
+### 🎯 Current Goals
+
+- Strengthen Data Structures and Algorithms
+- Build production-ready backend systems
+- Learn system design and distributed systems
+- Improve software engineering fundamentals
+- Contribute to meaningful open-source projects
+
+---
+
+<p align="center">
+  <i>Building, learning, and getting better every day.</i>
+</p>
